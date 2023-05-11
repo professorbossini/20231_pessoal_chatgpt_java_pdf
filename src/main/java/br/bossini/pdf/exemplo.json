@@ -1,0 +1,36 @@
+{
+  "model": "text-davinci-003",
+  "prompt": "Por que o céu é azul?",
+  "max_tokens": 5
+}
+
+
+{
+  "nome": "Concessionaria A",
+  "veiculos": [
+    {
+      "nome": "Celta",
+      "ano": 2010,
+      "valor": 10000
+    },
+    {
+      "nome": "Gol",
+      "ano": 2012,
+      "valor": 15000
+    }
+  ]
+}
+
+{
+  "nome": "João",
+  "idade": 30,
+  "endereco": {
+    "rua": "Rua 1",
+    "numero": 123
+  }
+}
+
+{
+  "nome": "Pedro",
+  "idade": 25
+}

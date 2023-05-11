@@ -1,0 +1,20 @@
+# Arquivos e diretórios gerados pelo Maven
+target/
+*.log
+
+# Arquivos e diretórios gerados pelo VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos temporários do sistema
+*.tmp
+*.bak
+*.swp
+*.class
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+
+config.properties
